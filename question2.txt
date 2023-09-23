@@ -1,0 +1,22 @@
+
+HTML entities are special characters that are used to represent reserved characters in HTML. 
+Reserved characters are characters that have special meaning in HTML, 
+such as the less than (<) and greater than (>) signs. If you use reserved characters 
+in your text, the browser might mix them with HTML tags.
+
+To use an HTML entity, you place an ampersand (&) at the beginning of the entity name 
+and a semicolon (;) at the end. For example, to display the less than (<) sign, you 
+would use the entity &lt;.
+
+Here are five commonly used HTML entities:
+
+&lt; - less than (<) sign
+&gt; - greater than (>) sign
+&amp; - ampersand (&) sign
+&quot; - double quotation mark (") sign
+&apos; - single quotation mark (') sign
+
+These entities can be used to display any character in HTML, even characters that are 
+not supported by the user's keyboard. For example, you could use the entity &copy; 
+to display the copyright symbol (©).
+
